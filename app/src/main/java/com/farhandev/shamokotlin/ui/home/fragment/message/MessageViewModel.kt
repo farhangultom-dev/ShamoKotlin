@@ -1,10 +1,10 @@
-package com.farhandev.shamokotlin.ui.home.fragment.dashboard
+package com.farhandev.shamokotlin.ui.home.fragment.message
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class DashboardViewModel : ViewModel() {
+class MessageViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
         value = "This is dashboard Fragment"
