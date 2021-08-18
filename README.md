@@ -2,8 +2,9 @@
 Aplikasi penjualan sepatu olahraga
 
 with:
+- Kotlin
 - Retrofit
-- MultiDex
+- MultiDex & SharedPreference
 - Firebase Realtime Database (for chat feature)
 - Livedata
 - MVVM Design Pattern
